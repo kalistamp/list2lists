@@ -3,6 +3,12 @@
 
 * * *
 
+### Personal Addons
+
+* How to work with torrent archives of hundreds of gigs: [TELEGRAPH](https://telegra.ph/How-to-work-with-torrent-archives-of-hundreds-of-gigabytes-if-your-computer-is-too-weak-for-it-02-22)
+
+* * *
+
 ### Resource List
 
 |Link| Description |
