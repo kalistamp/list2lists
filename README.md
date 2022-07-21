@@ -6,6 +6,12 @@
 ### Personal Addons
 
 * How to work with torrent archives of hundreds of gigs: [TELEGRAPH](https://telegra.ph/How-to-work-with-torrent-archives-of-hundreds-of-gigabytes-if-your-computer-is-too-weak-for-it-02-22)
+* Get free versions of tools you usually pay for: [Tinywow](https://tinywow.com/)
+* An AI auto-writing tool that automatically writes your essays and emails for you: https://jenni.ai/
+* Quillbot is a paraphrasing website that rewrites everything as plagiarism free text: https://quillbot.com/
+* An awesome website that lets you download high quality stock images for all your work and personal projects: ttps: //www.pexels.com/
+* An insane tool that lets you easily remove the background from your image and add in any background you like: https://www.remove.bg/
+* This website lets you convert files to any format you want for free: https://convertio.co/
 
 * * * 
 
