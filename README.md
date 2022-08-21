@@ -5,6 +5,8 @@
 
 ### Personal Addons
 
+* Chan: http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/
+
 * How to work with torrent archives of hundreds of gigs: [TELEGRAPH](https://telegra.ph/How-to-work-with-torrent-archives-of-hundreds-of-gigabytes-if-your-computer-is-too-weak-for-it-02-22)
 * Get free versions of tools you usually pay for: [Tinywow](https://tinywow.com/)
 * An AI auto-writing tool that automatically writes your essays and emails for you: https://jenni.ai/
