@@ -17,6 +17,12 @@
 
 * * * 
 
+### OSINT
+
+* https://webbreacher.com/
+
+* * *
+
 ### Awesome Lists
 
 * Awesome Web Desktop Applications: https://github.com/syxanash/awesome-web-desktops
