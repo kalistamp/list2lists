@@ -1,8 +1,12 @@
 
+* Breached[.]to
+* xss[.]is
+
+***
+
 List of h4cker, cracker, carder & cyber forums for investigators
 
 [ Biggest List you've ever seen, dont @ me if some become outdated ]
-* * *
     
     • 0x00sec – https://0x00sec.org
     • Alligator – https://alligator.cash
