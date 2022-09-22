@@ -3,7 +3,7 @@
 
 * * *
 
-### Personal Addons
+### Addons
 
 * Chan: http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/
 
@@ -12,7 +12,7 @@
 * An AI auto-writing tool that automatically writes your essays and emails for you: https://jenni.ai/
 * Quillbot is a paraphrasing website that rewrites everything as plagiarism free text: https://quillbot.com/
 * An awesome website that lets you download high quality stock images for all your work and personal projects: ttps: //www.pexels.com/
-* An insane tool that lets you easily remove the background from your image and add in any background you like: https://www.remove.bg/
+* List of  30+ Great Cybersecurity & Hacking Documentaries Recommendations, for those of you who like watching documentaries: [Movie_List](https://github.com/Nickyie/Cybersecurity-Resources/blob/main/Cybersecurity%20&%20Hacking%20Documentaries/Cybersec%20&%20Hacking%20Documentaries.md)
 * This website lets you convert files to any format you want for free: https://convertio.co/
 
 * * * 
