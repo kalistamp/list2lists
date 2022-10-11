@@ -22,5 +22,8 @@
 
 ***
 
-AWS CLOUD: https://github.com/CyberSecurityUP/Cloud-Security-Attacks
+### AWS CLOUD
 
+* https://github.com/CyberSecurityUP/Cloud-Security-Attacks
+* https://hackingthe.cloud/
+* 
