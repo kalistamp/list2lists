@@ -27,3 +27,10 @@
 * https://github.com/CyberSecurityUP/Cloud-Security-Attacks
 * https://hackingthe.cloud/
 * 
+
+
+***
+
+### Extra:
+
+* https://github.com/pr0xh4ck
