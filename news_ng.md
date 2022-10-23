@@ -3,6 +3,7 @@
 # New List 
 
 * https://psw1234.com/news/
+* https://discuss.hackbusters.com/
 * https://www.darkreading.com/
 * https://krebsonsecurity.com/
 * https://securityaffairs.co/wordpress/
