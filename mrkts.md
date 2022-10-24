@@ -1,3 +1,3 @@
-* https://docshop.ma
+* https://docshop[dot]ma
 
-* https://madstore.sk/login
+* https://madstore[dot]sk/login
