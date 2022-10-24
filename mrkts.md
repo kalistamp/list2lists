@@ -14,3 +14,5 @@ http://527wdv2dhqxayso33al3xrlfg6wuflc2zmzwhxsekyu3wjw5t4i6l5ad[dot]onion/
 * https://goatshop[dot]io/
 
 * https://altsrus.atshop[dot]io/fuel
+
+* https://dynasty.atshop[dot]io/ - (Almost no updates recently) 
