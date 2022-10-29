@@ -2,6 +2,7 @@
 
 # New List 
 
+* https://www.ransomlook.io/
 * https://mgeeky.tech/
 * https://breakdev.org/
 * https://psw1234.com/news/
