@@ -4,6 +4,7 @@
 * hackforums[dot]net
 * onehack[dot]us
 * craxpro[dot]io
+* patched[dot]to
 
 
 ***
