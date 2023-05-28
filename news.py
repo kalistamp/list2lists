@@ -8,6 +8,7 @@ x = ' '
 print(x*2)
 
 cstop = [        'https://therecap.org/',
+        'https://psw1234.com/news/',
         'https://www.trickster.dev/',
         'https://news.ycombinator.com/',
         'https://www.reddit.com/r/privacy/',
