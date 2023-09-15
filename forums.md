@@ -1,11 +1,14 @@
 
-* Breached[.]to
 * xss[.]is
 * hackforums[dot]net
 * onehack[dot]us
 * craxpro[dot]io
 * patched[dot]to
-* pompur[dot]in
+* pompur[dot]in -SKETCH
+* 
+breachforums.is Is the official one with the old team from breached.vc
+
+All the other copies like rebreached.vc or Raiding.to take with caution
 
 
 ***
