@@ -1,11 +1,14 @@
 
-* xss[.]is
+* xss[dot]is
 * hackforums[dot]net
+* https://www.blackhatworld.com/seo/telegram-bot.1518580/
 * onehack[dot]us
 * craxpro[dot]io
 * patched[dot]to
-* pompur[dot]in -SKETCH
-* 
+
+
+{ pompur[dot]in -SKETCH }
+
 breachforums.is Is the official one with the old team from breached.vc
 
 All the other copies like rebreached.vc or Raiding.to take with caution
