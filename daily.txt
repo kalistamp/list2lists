@@ -1,0 +1,4956 @@
+
+
+
+## Daily Notes
+
+
+
+```DAILY NOTES IDEAS/INSIGHT ON MY PROGRESS AND WORK ```
+
+
+
+
+***
+
+
+
+
+### 2024-02-25 | FIRST DAY GETTING BACK ON TRACK WITH NOTES
+
+
+
+- [Malware Course](https://www.youtube.com/channel/UC88YVlKcrgL4-PRDPOuFDbg) 5 hours straight and it begins with the basics to advanced stuff
+
+- NEXT
+
+
+
+
+
+
+
+```DONT FEEL LIKE I DID ENOUGH BUT IT WAS JUST A START, OVERALL I ENJOY THIS LAYOUT AND WANT TO CONTINUE WORKING WITH IT ```
+
+
+
+
+***
+
+
+
+
+### 2024-03-03 | GETTING TASKS DONE AND START OF NEW VPS 
+
+
+
+
+- Signed up for Xfin... ID needed for support: ```8155600399393639```
+
+- VPS company i went with [insert company here](whateverwhatever.om)
+
+
+
+
+***
+
+
+
+
+### 2024-03-04 | CLEANING IPHONE / PRUNING SAW
+
+
+
+
+- TST MULLVAD BROWSER: https://mullvad.net/en/browser
+
+- https://github.com/mandiant/SharPersist
+
+- https://github.com/mertdas/SharpTerminator
+
+- PROXIES: https://facelesss.cc
+
+- MOBILE APK: https://eybisi.run/Mobile-Malware-Analysis-Tricks-used-in-Anubis/
+
+- http://gauss.ececs.uc.edu/Courses/c653/homework/assgn6.pdf
+
+- USB LOOKS SICK: https://github.com/mon5termatt/medicat_installer
+
+- ADD TO GITHUB SOMEWHERE: https://www.spoofcard.com | https://mobile.spooftel.com
+
+- AWS HCKING: https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting/intent-injection
+
+- ALL APK: https://medium.com/@vlad.iftimie88/analyzing-the-apk-part-2-c19ee293d27f | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/stealth-backdoor-android-xamalicious-actively-infecting-devices/ | 
+
+- AI FEEDBACK: https://myessayfeedback.ai
+
+- WIFI AUDIT, TST AT NEW HOUSE: https://www.kitploit.com/2024/01/airgorah-wifi-auditing-software-that.html?m=1#google_vignette | https://github.com/martin-olivier/airgorah/wiki/Usage
+
+- WHATS THIS - ITS a torrent tracker thats why you need invite to join: https://fearnopeer.com/login
+
+- OPEN SOURCE BROWSER: https://stract.com/search?ss=false&sr=N4IgNglg1gpgJiAXAbQLoBoRwgZ0rBFDEAIzAHsBjApNAXyA&q=Hacking&optic=&p=2
+
+- GO BACK TO BOMBAL PODCAST TO FIND COURSE ON API HACKING THEN RUN DOWN THIS RESOURCE: https://github.com/bleedline/Awesome-gptlike-shellsite
+
+
+
+
+[!] UPDATE, here is bombal course: ```https://www.apisecuniversity.com/```
+
+
+
+
+- PROMPT ENG COURSE: https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/
+
+- RANSOMWARE NOTES: https://github.com/threatlabz/ransomware_notes?tab=readme-ov-file
+
+- POWERSHELL RAN. C2? TEST THIS: https://github.com/JoelGMSec/PSRansom
+
+- MALWARE RESOURCES: https://github.com/Sokow86/awesome-malware-resources
+
+
+
+
+***
+
+
+
+
+### 2024-03-07 | SETTING UP NEW VPS
+
+
+
+
+
+
+
+- bought vps onb strikerdp
+
+- updated duckdns waiting top update ip on ```mythdmp```
+
+- Decided that paying for aws ```K2``` and ```r00tdmp``` was not really worth  it. Im going to instead just let it die out, run a newemail and phone number and then
+
+- Checked i still have a KRAKEN Accnt
+
+- 
+
+
+
+
+***
+
+
+
+
+### 2024-03-08 | WAITING FOR STRIKER VPS PENDING / NEW FINDS
+
+
+
+
+- FREE TRIALS:
+
+
+
+
+https://www.onworks.net - (Free w/ ads) CLoud storage, windows, linux hosting 
+
+ 
+
+https://www.space-hosting.net/free-trial-vps/ - (Free Trial Server / 24hr) Perfect for one time "experiments" 
+
+ 
+
+https://vpswala.org - (Free starter plan) 1TB bandwidth and SSL included. Not bad. 
+
+ 
+
+https://go.runhosting.com/free-web-hosting.html (Free hosting) Limited features but enough for a website to host 
+
+ 
+
+https://platform.cloudways.com/signup (Free trial) ALso perfect for one time "experiments" 
+
+ 
+
+https://www.cloudns.net(FRee forever) Secure DNS hosting 
+
+ 
+
+https://targetbird.com/domains.php(Free) Get a FREE domain along with cloud hosting with wordpress 
+
+
+
+
+- SETUP AHMYTH ON A FREE VPS USING ```https://www.space-hosting.net/free-trial-vps/```
+
+- 
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-03-14 | APPLY JOBS / START COMPTIA
+
+
+
+
+- Apply for all Tech jobs located in Sacramento, each * is a successful apply (* *)
+
+- [COMPTIA](https://www.comptia.org/certifications/a#buyoptions) A+ 1101 / 1102 CERTIFICATION [ROADMAP](https://www.reddit.com/r/CompTIA/comments/qrb4ff/complete_beginner_a_certified_roadmap_my/):
+
+
+
+
+Mike Meyers A+ videos with Professor Messer's A+ course notes
+
+
+
+
+Professor Messers Course Notes: 220-1101 [Core 1](https://vap.college/wp-content/uploads/2021/05/1001-a-plus-course-notes-v109.pdf) / 220-1102 [Core2](https://www.quia.com/files/quia/users/sonekakamuhuza/Professor_Messer_1002_Notes.pdf)
+
+
+
+
+Jason Dion's practice tests
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-03-23 | COMPTIA 220-1101 core1 STUDY
+
+
+
+
+``` I WILL TAKE 220-1101 CORE 1 PRACTICE TEST TMR ON 3/24 TO SEE WHAT AREA I NEED TO STUDY IN ORDER TO PASSS EXAM```
+
+
+
+
+- Reddit Resources: https://www.reddit.com/r/CompTIAExamPass/comments/14plmnd/top_resources_to_help_you_pass_the_comptia_a/ | https://www.reddit.com/r/CompTIAExamPass/
+
+- Practice Exam: https://forms.gle/UksFoemxcboiWfna9
+
+- Ran through Comptia A+ Core 1 stuy guide LESSON 1 - 9 ...
+
+
+
+
+sTARTED: Lesson 1
+
+
+
+
+ENDED: Lesson (insert here)
+
+
+
+
+,
+
+
+
+
+,
+
+
+
+
+,
+
+
+
+
+- News / Tasks Review:
+
+
+
+
+NEURALINK GOT SOMEONE PLAYING CHESS WITH THERE MIND...
+
+
+
+
+SETTING UP A HONEYPOT: https://www.darkrelay.com/post/what-is-a-honeypot
+
+
+
+
+SSH TIPS: https://www.trickster.dev/post/ssh-tips-and-tricks/
+
+
+
+
+Privacy Youtube Fork: https://piped.video/trending
+
+
+
+
+Alternative Torrent Client: https://www.tixati.com/
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-03-27 | COMPTIA 220-1101 STUDY
+
+
+
+
+* ```Professor Messer's 220-1101 A+ Study Group - January 2024``` notes in orange book
+
+* Sora Ai ... LLMs use Tokens, Text to image uses Patches
+
+* Test out tool for Wifi Pen. - (Airograph)[https://github.com/martin-olivier/airgorah]
+
+* 
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-03-28 | COMPTIA 220-1101 STUDY
+
+
+
+
+* [Again] ```Professor Messer's 220-1101 A+ Study Group - January 2024``` : Got two out of four for the performace base question wrong, Go back and review Printer based Section of study Guide
+
+
+
+
+Laser Printer = Pigment heated and fused to print the final output
+
+
+
+
+Inkjet Printer = Drops of pigment are combined to create printed output
+
+
+
+
+
+
+
+... Still need to finish
+
+
+
+
+* Cold Storage Studying ```220-1101-Exam questions dump.pdf```
+
+
+
+
+Answers i got wrong reviewed below:
+
+
+
+
+A user who works with sensitive data has a computer configured with hard drive encryption The TPM is active and hosting the encrypted key. After an upgrade to the motherboard. RAM and video card the hard drive is not booting and data cannot be accessed from the hard drive. Which of the following should the technician do to enable the system to boot again and get access to the stored data?
+
+
+
+
+Boot into BIOS and enable TPM (Trusted Platform Module) on new motherboard 
+
+
+
+
+***
+
+
+
+
+### 2024-04-12 | TOO MUCH TIME OFF
+
+
+
+
+Took too much time off, but im back at it and should stay consistent.
+
+
+
+
+Looking to focus on next Project while also slowly working towards comptia... 100% effort into comptia seemed to lead to Burn Out
+
+
+
+
+* Searched for new project ideas and found these here
+
+
+
+
+- [ ] Wifi Audit
+
+- [x] MediCat USB
+
+- [x] Ras Pi rubber ducky
+
+- [ ] Could check out API security course: [HERE](https://www.apisecuniversity.com/)
+
+- [x] TEST OUT [PSRansom](https://github.com/JoelGMSec/PSRansom)
+
+- [x] TEST CONTI [Think its this one](https://github.com/gharty03/Conti-Ransomware)
+
+- [ ] [R-77 Rootkit](https://github.com/bytecode77/r77-rootkit)
+
+- [ ] #100DaysofAI 🧪 Hashtag on X ... Host more local LLM on Host like Mistral for example
+
+
+
+
+* Finished my Comptia Studies ```JAN 2024 YT Video```
+
+
+
+
+* Finds While Searching for Phone spoofer (This may be better than strictly Mint M., or can be used in conjunction with a mint number)
+
+
+
+
+```
+
+https://www.spoofcard.com/
+
+https://www.spooftel.com/
+
+https://www.covertcalling.com/
+
+https://www.spoofmyphone.com/
+
+https://www.itellas.com/
+
+https://bluffmycall.com/
+
+https://freecalleridspoofing.com/
+
+https://www.crazycall.net/
+
+https://myphonerobot.com
+
+https://www.sitelike.org/similar/spoofcard.com/
+
+```
+
+
+
+
+***
+
+
+
+
+### 2024-04-16 | START OF NEW PROJECT FREOM LIST (Donald Duck)
+
+
+
+
+* ```Delete this later on after some review``` Applied to some JBS: Fedex, harborfreight, ...
+
+
+
+
+* Start Project - **Donald Duck**
+
+
+
+
+[Raspberry Pi Pico Ducky Script Not Executing Payload.dd file](https://www.reddit.com/r/raspberry_pi/comments/rb9n8v/raspberry_pi_pico_ducky_script_not_executing/) - - the Adafruits Libs and the Circuitpy Release Versions downloaded and used did not match i thought this may be the issue... tried to fix this issue by using the same release versions but still was not able to get Ducky to RUN
+
+
+
+
+Holding Down BOOTSEL button upon download will reset the PiPico
+
+
+
+
+ Check OS compatibility of the Ducky payload before you try to run some are specific to Win or MacOS
+
+
+
+
+* VPS Servers All expired
+
+
+
+
+* **News worth noting:**
+
+
+
+
+```Huge Problem with  the release of open source WizardLM-2 LLM being removed by Microsoft because it never went through "toxicity check" Testing before being released, Alot of ppl feel this is overeach and adding unnecessary censorship ... "Ollama was the fastest pull.  (ollama run wizardlm2)" ... I see this and want to know other options besides using ollama that you can run an LLM locally. incase a Model is pulled like it was in this example how can it be stored locally for myself as well so that i will not lose access to it```
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-04-18 | Email Forwarding / MedicatUSB / Nzyme ?
+
+
+
+
+* Set up [Email-Forwarding](https://forwardemail.net/en/faq#do-you-have-a-denylist) w/ kalistamp1 Email (NEED TO CHANGE THIS) by signing up with GITHUB which kalistamp1 is connected too
+
+
+
+
+First Dummy email setup that will send to milohelps22 mail ```onemail@marinpark.top```
+
+
+
+
+
+
+
+* Test the next two projects then fill in the Notes -
+
+
+
+
+*  MedicatUSB
+
+
+
+
+*  Nzyme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-04-27 | Finally got VPS Working
+
+
+
+
+* Had to reinstall OS for the VPS i bought on anonRDP. Finally got Windows installed and downloaded visual studio and conti files to be told Conti SLN file will only work on ```Visual Studio 2015```
+
+* Next Looked as PSransom but saw the tool and tutorial are displayed as being setup and ran on linux machine...
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-05-01 | Moved From Conti onto Lockbit
+
+
+
+
+
+
+
+* Had trouble building Sln files for Conti because VS code 2015 was required, - - - Decided to test out lockbit instead
+
+* Lockbit Worked Fine and Displayed Msg... ```Should i Test it one more time ?```
+
+* Trojans and Stealer are more prevalant than RAN... May move back into Trojans and stealers instead - - Saw that ```Async``` HVNC and sockets (the connection) are shit so i will try something better that was been leaked such as ```Xworm``` or ```seroxen```
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-05-02 | HVNC for Xworm (skid) Vs Seroxen (superior)
+
+
+
+
+* Updated and Posted Src Files here: https://github.com/c2dmp/dmp
+
+
+
+
+
+
+
+
+
+
+* Explaining HVNC:
+
+
+
+
+
+
+
+```
+
+
+
+
+HVNC stands for Hidden Virtual Network Computing. It is a tactic used by cybercriminals to gain user-grade access to an infected PC without the victim's knowledge. This tactic is commonly used in online banking fraud scenarios, where cybercriminals use remote control tactics to commit financial fraud, often with and without actual malware on the victim's endpoint. The hidden virtual network computing (HVNC) module allows attackers to control a machine without the victim's knowledge, providing them with access to the victim's computer for malicious purposes
+
+
+
+
+Hidden VNC is a creative solution to a problem that stemmed from banking fraud. It is a complicated malware feature that requires coders to implement their own window manager, which is why there are very few unique implementations in the wild. Most malware uses a single implementation unimaginatively named HVNC 
+
+
+
+
+.
+
+In the context of computing, HVNC refers to a system where a group of computer networks are connected to each other to securely exchange data and information. It allows multiple computers or networks within an organization to connect and securely exchange data, often over the internet or through a dedicated private network infrastructure set up between the networks involved 
+
+
+
+
+.
+
+In the broader context of computing, Virtual Network Computing (VNC) is a graphical desktop-sharing system that uses the Remote Frame Buffer protocol (RFB) to remotely control another computer. It transmits the keyboard and mouse input from one computer to another, relaying the graphical-screen updates over a network 
+
+
+
+
+.
+
+In summary, HVNC is a tactic used by cybercriminals to gain unauthorized access to a victim's computer, particularly in the context of online banking fraud. It is a form of hidden virtual network computing that allows attackers to control a machine without the victim's knowledge, and it is a complex malware feature that requires specific coding skills to implement effectively
+
+
+
+
+```
+
+
+
+
+Decided to go with Async anyway to test out a rat and got this short conversation on Tele:
+
+
+
+
+( Check Malware Hunters on Tele and test all the tools posted to see which ones are best )
+
+
+
+
+```
+
+
+
+
+
+
+
+Byte Belle
+
+Im still having trouble getting async or any exe to bypass WD do you know any good methods. Would syswhisper still work?
+
+
+
+
+USER1
+
+No
+
+
+
+
+Byte Belle, [5/2/2024 10:22 PM]
+
+any good alternatives than syswhisper?
+
+
+
+
+USER1
+
+Your malware is dotnet or native?
+
+
+
+
+Byte Belle, [5/2/2024 10:23 PM]
+
+besides a cryper they seems to be alot
+
+native hosted on a vps
+
+never successfully spread in wild yet
+
+using with pwndrop
+
+
+
+
+USER1
+
+Your sample file detected at scan time?
+
+
+
+
+Byte Belle, [5/2/2024 10:26 PM]
+
+yeah cant even get past basic WD smh
+
+i know i could pay for a crypt but i was wondering if there were any other free alternatives i could work with first
+
+syswhisper3 no good at all?
+
+
+
+
+USER1
+
+Then you compile ready-made source code, itz expected to be detected. Learn evasion techniques or buy a crypter
+
+
+
+
+USER1
+
+Man, thatll only hide calls. Itz not an adequate evasion technique on its own
+
+
+
+
+Byte Belle, [5/2/2024 10:30 PM]
+
+aight got it ill look into evasion techniques  and memory persistence more thanks
+
+dll sideloading still a good working optionA?
+
+
+
+
+USER1
+
+Yh, actively used by APT groups
+
+
+
+
+```
+
+
+
+
+* Only $45 for a week trial for [Kangal](https://wdkiller.com/) crypter, may need to test this if other evasion techniques dont work such as dll sideloading
+
+
+
+
+* D.Bombal Active directory Attacks [Video](https://www.youtube.com/watch?v=BsS7VITiUXo&t=512s)
+
+
+
+
+'''NOTES FROM VIDEO:'''https://medium.com/@bartukilickaya/unauthorized-access-to-ntds-dit-file-in-domain-controllers-69505ec67f20
+
+
+
+
+usually [compromise domain](  add link above here) obtain ntds.dit which gives all hashes for all users in active directory enviroment and crack hash a for user credentials (19:14mins)
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-05-03 | BALANCE Current Fun Project(s) & COURSE OBJECTIVE
+
+
+
+
+* I need to work harder on time management and CLEAR seperation between the two (BALANCE Current Fun Project(s) & COURSE OBJECTIVE) if i want to actually achieve anything meaningful by the end of the year. Going Forward i need to input notes from Comptia A+ studies into a github repository (Also make note that there is saved documents for study on hard drive)
+
+
+
+
+* If Async is a tool i want to test out i need to find a way to bypass basic WD if i am to try sending out any emails to get the stub to actually bit on any real victims in the wild... [Source](https://gatari.dev/posts/a-trip-down-memory-lane/) I can try and read.... I read the whole article it seems at the end adding to exlusion was the answer LOL... How about [THIS](https://amajax.medium.com/bypass-windows-defender-with-1-line-powershell-command-57dec5d1edb) now, maybe this dropper would work?
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-05-09 | List more projects and Ideas to work next
+
+
+
+
+* Side Note - Alternative to Email Forwarder Net [Take a Look](https://www.migadu.com/index.html)
+
+
+
+
+* [Intelligence in the Age of AI with new CTO of the CIA](https://a16z.com/podcast/intelligence-in-the-age-of-ai-with-new-cto-of-the-cia/)
+
+
+
+
+- [ ]  Tst unrestricted LLM models on Host PC, Ollama and Dolphin or llama2 unrestricted [Medium Article](https://medium.com/@taron.mehrabyan/how-to-run-your-uncensored-llm-locally-472228b3efb2) | [Perplexity Conversation](https://www.perplexity.ai/search/if-use-ollama-Eblw9RWjQkmS.ZTVTqYaFw)
+
+- [ ]  SQL Injection
+
+- [ ]  Comptia studies... (I guess smh)
+
+- [ ]  Linux exploits ?
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-05-12 | Sunday Workflow + SMTP setup
+
+
+
+
+* News: here
+
+
+
+
+
+
+
+* [Portable Apps](https://portableapps.com/apps/internet#google_vignette) - Example use-case: ```I have a home-computer used by
+
+several family-members for leisurely activities. I also
+
+use it for work and have an encrypted drive to keep my
+
+work-related activity and files separate. I'd like to put a
+
+self-contained browser on the encrypted hard-drive so
+
+my family-members can't mess with my work-related
+
+online activity. What options would I have for such a browser```
+
+
+
+
+* After almost paying for a Zoho plan i ended up going with SMTP2GO along with Thunderbird Client to send out emails using my Domain. Configuration was far from easy and i am still currently having trouble setting up new email alias again after i added CNAME records to domain registrar...
+
+
+
+
+Currently only working alias is ```sugasean@topia.ink``` could not get ```hazypulp@topia.ink``` to configure properly...
+
+
+
+
+Here is Accnt information for SMTP2GO to work further on this later: Login - ```sugasean@topia.ink``` | Pass - ```Fuckmail```
+
+
+
+
+* How to add a new email alias for a domain on Thunderbird
+
+
+
+
+```
+
+
+
+
+Open Thunderbird
+
+Click the three horizontal lines in the upper right corner of the main window
+
+Select Account Settings
+
+Click Manage Identities in the bottom right corner
+
+Click Add
+
+Enter the name and email address you want to use
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-05-29 | Fine Tune LLm - News Reads - Back to Jb Applying
+
+
+
+
+* NEWS :
+
+
+
+
+[Google Search ranking features leaked](https://www.seroundtable.com/google-search-data-leak-37462.html)
+
+
+
+
+* Work on Fine Tuneing a LLM model? 
+
+
+
+
+Need an open Source Model | An algorithm that fine tunes | A private Dataset
+
+
+
+
+https://www.realworldml.net/blog/llms-in-real-world-projects
+
+
+
+
+Can use [Replicate](https://replicate.com/) or https://llm.datasette.io/en/stable/ to fine tune local momdels
+
+
+
+
+* ```idea``` Look into workshops (THM) to practice SQL injection | Burpsuite | ... or [Quishing](https://youtu.be/5m1v43RvPUg) ?
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-06-04 | New Project Ideas / Apply
+
+
+
+
+
+
+
+- [ ]  Burpe Suite [Basics](https://tryhackme.com/r/room/burpsuitebasics)
+
+- [ ]  EvilQR / QRLjacking (Quishing refrence above)
+
+- [ ]  NEXT
+
+
+
+
+* Check out [Airtable](https://www.airtable.com/platform/connected-data) for workflow charts
+
+* Found [Coffin](https://twitter.com/coffinxp7) posted a screenshot of his chrome extions and wanted to see what they were. Here is GPT Results
+
+
+
+
+```
+
+
+
+
+Based on the bookmark icons and their typical representations, here are the revised URLs for "Blind xss" and "notes":
+
+
+
+
+1. **Blind xss**: The icon resembles a payload or exploit related to cross-site scripting (XSS). The popular tool for this is [Blind XSS](https://xsshunter.com/) from XSS Hunter.
+
+   - URL: [https://xsshunter.com/](https://xsshunter.com/)
+
+
+
+
+2. **notes**: The icon used here is the logo of Notion, a popular note-taking and productivity application.
+
+   - URL: [https://www.notion.so/](https://www.notion.so/)
+
+
+
+
+Here's the updated list of all the bookmarks:
+
+
+
+
+1. Proton Mail: [https://proton.me/mail](https://proton.me/mail)
+
+2. YouTube: [https://www.youtube.com/](https://www.youtube.com/)
+
+3. Security Academy: [https://portswigger.net/web-security](https://portswigger.net/web-security)
+
+4. HackerOne: [https://www.hackerone.com/](https://www.hackerone.com/)
+
+5. Bugcrowd: [https://www.bugcrowd.com/](https://www.bugcrowd.com/)
+
+6. Shodan: [https://www.shodan.io/](https://www.shodan.io/)
+
+7. Intigriti: [https://www.intigriti.com/](https://www.intigriti.com/)
+
+8. coffinxp: [https://github.com/coffinxp](https://github.com/coffinxp)
+
+9. Blind xss: [https://xsshunter.com/](https://xsshunter.com/)
+
+10. bWAPP: [http://itsecgames.com/](http://itsecgames.com/)
+
+11. notes: [https://www.notion.so/](https://www.notion.so/)
+
+12. HackTricks: [https://book.hacktricks.xyz/](https://book.hacktricks.xyz/)
+
+13. Root Me: [https://www.root-me.org/](https://www.root-me.org/)
+
+14. HackerGPT: [https://chat.hackerai.co/](https://chat.hackerai.co/)
+
+
+
+
+```
+
+
+
+
+* Did it again But this time asked about the chrome extensions in the Picture:
+
+
+
+
+```
+
+
+
+
+I apologize for the confusion. Let's focus on identifying the Chrome extensions based on the icons displayed in the browser's extension toolbar.
+
+
+
+
+From left to right, the visible Chrome extension icons appear to be:
+
+
+
+
+Orange Shield with a white checkmark: This is likely Grammarly.
+
+Purple Hexagon with a white number inside: This is likely Wappalyzer.
+
+Blue envelope icon: This is likely Mailtrack.
+
+Gray cloud with an arrow inside: This is likely Nimbus Screenshot & Screen Video Recorder.
+
+Bug icon: This is likely Google Analytics Debugger or a similar debugging tool.
+
+Green shield with a checkmark: This is likely HTTPS Everywhere.
+
+Red exclamation mark inside a shield: This is likely Adblock Plus.
+
+Blue shield icon: This is likely uBlock Origin.
+
+Red letter "S": This is likely Stylus or Tampermonkey.
+
+
+
+
+```
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-06-04 | Start Burpsuite THM / Just Exploring
+
+
+
+
+
+
+
+* Some More random finds from exploring on Tele:
+
+
+
+
+[Subdomain](https://subdomainfinder.c99.nl/) (Can look at recently searched domains) 
+
+
+
+
+```https://xss.report/``` - The site likely provides tools and resources for identifying, testing, and understanding XSS vulnerabilities, helping developers and security professionals to secure their applications against such attacks. It may also offer educational content on different types of XSS attacks, such as reflected, stored, and DOM-based XSS, and best practices for preventing these vulnerabilities.
+
+
+
+
+* No News Todays :(
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-06-11 | 7 Days Later... Starting Burpsuite THM
+
+
+
+
+
+
+
+**Burpsuite Notes:**
+
+
+
+
+Using ```Burp Suite Community``` instead of Burp Suite Enterprise which runs on a server and provides constant scanning of targeted web app 
+
+
+
+
+
+
+
+MORE NOTES NEXT TIME...
+
+
+
+
+***
+
+
+
+
+### 2024-06-26 | MUSIC ORGANIZATION
+
+
+
+
+* Programs to organize music: **MP3TAG** | **MediaMonkey** | 
+
+
+
+
+* Music Downloading: **Soulseek** | [StreamRip](https://github.com/nathom/streamrip)
+
+
+
+
+* FLAC 2 MP3: **Fre:ac** |
+
+
+
+
+***
+
+
+
+
+### 2024-07-12 | News Run & New Finds
+
+
+
+
+**News:**
+
+
+
+
+* [The Ticketmaster Hack Is Becoming a Logistical Nightmare for Fans and Brokers](https://www.404media.co/the-ticketmaster-hack-is-becoming-a-logistical-nightmare-for-fans-and-brokers/)
+
+* [Hackers Steal Text and Call Records of ‘Nearly All’ AT&T Customers](https://www.404media.co/hackers-steal-text-and-call-records-of-nearly-all-at-t-customers/)
+
+
+
+
+
+
+
+**Finds:**
+
+
+
+
+* OPSEC - https://www.privacyguides.org/en/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-07-13 | ALERT (read)
+
+
+
+
+
+
+
+* [!] **[The Postal Service and Postal Inspection Service held a joint briefing for Congress members and staff on these efforts on May 11, 2023.   ](https://about.usps.com/newsroom/national-releases/2023/0512-usps-postal-inspection-service-roll-out-expanded-measures-to-crack-down-on-mail-theft.htm)**
+
+
+
+
+* coinjoin with wasabi (crypto mixer?)
+
+
+
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-07-14 | News - Finds
+
+
+
+
+* [dispirsed ai gpt (refer to X post and fill in description with link here...]()
+
+
+
+
+
+
+
+* Below are two therioes of happiness mentioned from Kai-Fu Lee book AI 2041:
+
+
+
+
+* ''' CIB ''' - Chicken In Box was a method designed originally by placing freshly dead meat into the package you were shipping in order for the rotting meat to then become so rotten the mail courier is forced to throw it out...
+
+
+
+
+**Abraham Maslow's Hierarchy of Needs:**
+
+
+
+
+Derived from a 1943 paper " A thoery of Human Motivation"
+
+
+
+
+```
+
+
+
+
+Physiological Needs: These are our basic survival needs like food, water, and sleep.
+
+
+
+
+Safety Needs: This level includes job security, personal safety, and financial stability.
+
+
+
+
+Love and Belonging Needs: We all have a need for friendship, intimacy, and a sense of belonging.
+
+
+
+
+Esteem: This level is about gaining recognition, respect, and self-confidence.
+
+
+
+
+Self-Actualization: The highest level represents the desire to reach our full potential and achieve personal growth.
+
+
+
+
+
+
+
+According to Maslow, we must satisfy lower-level needs before attending to higher ones. However, it's important to note that these needs are not mutually exclusive.
+
+They can coexist and influence our behavior simultaneously.
+
+
+
+
+```
+
+
+
+
+
+
+
+**Martin Seligman positive psychology -  Based off his PERMA Model**
+
+
+
+
+[Martin Seligman TED Talk - The new era of positive psychology](https://www.ted.com/talks/martin_seligman_the_new_era_of_positive_psychology?subtitle=en&trigger=15s)
+
+
+
+
+```
+
+
+
+
+The PERMA model, developed by Martin Seligman, is a comprehensive framework within positive psychology designed to enhance well-being and happiness. It consists of five core elements:
+
+
+
+
+**Positive Emotion**, which involves experiencing joy, gratitude, and other positive feelings;
+
+
+
+
+**Engagement**, characterized by deep involvement in activities that challenge and absorb us, often leading to a state of flow;
+
+
+
+
+**Relationships**, emphasizing the importance of healthy, supportive connections with others;
+
+
+
+
+**Meaning**, which pertains to having a sense of purpose and belonging to something greater than oneself;
+
+
+
+
+**Accomplishment**, focusing on achieving goals and mastering skills to foster a sense of competence and success. Together, these elements provide a holistic approach to understanding and improving individual and collective well-being, promoting a balanced and fulfilling life.
+
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 2024-07-15 | FINDS
+
+
+
+
+
+
+
+* [!] Idea: Create a breathwork Repository
+
+
+
+
+* [Text to image generator, it is mostly uncensored](https://huggingface.co/chat/models/CohereForAl/c4ai-command-r-plus/)
+
+* [Good Bug Bounty hunting methodology](https://medium.com/@tom.sh/best-bug-hunting-methodology-for-ez-money-58b7fe928e6f)
+
+
+
+
+
+
+
+* Gpt Jailbreak Docs and Notes
+
+
+
+
+[GPT4o jailbreak prompt](https://docs.google.com/document/d/e/2PACX-1vRLo5fkrjnSyXED1SZ-nFo7VKZCKjWTz94UZxJJhobWcpGoYhaks4UBeW04Ke6CCcvbljwCbCJefW_r/pub)
+
+
+
+
+[GPT Jailbreak Guide](https://docs.google.com/document/d/1gNLNyxbAl4Ck4OOPz-H-OmKz1NP79Fls1Eym-Kn-jXs/mobilebasic)
+
+
+
+
+'''
+
+
+
+
+Is it just me or is 4o easier to jailbreak than 3.5?
+
+
+
+
+Maybe it's because I'm using what is technically a 4o jailbreak on 3.5, but I can make 4o do things that has 3.5 just refusing to continue.
+
+
+
+
+
+
+
+Yes, 40 is easier to jailbreak with the right prompt and a little bit of fine-tuning. It has been successful for me for a month now so yeah 40 is easier and smarter than 3.5
+
+
+
+
+
+
+
+'''
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-7-16 | Start Op Photo Recovery
+
+
+
+
+* What tools are best for large image storage and organization
+
+
+
+
+* DDos tools found in discord group:
+
+
+
+
+https://check-host.cc
+
+
+
+
+ipdeny
+
+
+
+
+https://dstat.cc
+
+
+
+
+https://huggingface.co/chat/
+
+
+
+
+
+
+
+* add news? 
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-7-17 | NEWS - Finds ?
+
+
+
+
+**News:**
+
+
+
+
+[ The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
+
+
+
+
+
+
+
+* How to remove the red warning from Google on a phishing domain:
+
+
+
+
+1.Remove all malicious files.
+
+
+
+
+2.Go to Google Search Console and enter the domain.
+
+
+
+
+3.Choose verification via Cloudflare.
+
+
+
+
+4.Start verification and create a Cloudflare account.
+
+
+
+
+5.Update NS in the domain registrar.
+
+
+
+
+6.Request a full report in Search Console.
+
+
+
+
+7.Remove blacklisted links and request a recheck.
+
+
+
+
+8.Wait for the warning to be removed within 24 hours.
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-7-18 | MORE NEWS - Finds
+
+
+
+
+**News:**
+
+
+
+
+Telegram has been named the favorite messenger of cybercriminals in the first half of 2024, according to Dmitry Kiryushkin, the head of BI.ZONE (website) Brand Protection. The study recorded over 66,000 mentions of Telegram and over 22,000 mentions of private messages on dark forums. Kiryushkin noted that Telegram attracts cybercriminals of various types due to its large user base of 900 million people, facilitating quick victim targeting and communication. While Telegram is considered secure and convenient within darknet communities, cybercriminals also use Tox, Jabber, and Discord, depending on their goals and desired anonymity level.
+
+
+
+
+* I want to start phishing project...
+
+
+
+
+* Start on Op Photo Recovery
+
+
+
+
+***
+
+
+
+
+### 2024-7-19 | MORE NEWS - Finds
+
+
+
+
+**News:**
+
+
+
+
+Phishing videos for Android owners have started circulating on Telegram
+
+Users are prompted to open the video through a third-party player, and when they do, malware is downloaded onto their device.
+
+You probably weren't planning on opening videos from unknown users, but caution is always a good idea.
+
+
+
+
+
+
+
+On 2024-07-18, CrowdStrike deployed a defective update that leads to Windows machines running CrowdStrike Falcon being stuck in an endless boot loop (or BSOD).
+
+
+
+
+
+
+
+like how the “.ax” TLD is used for Åland, in Finland but this guy @ http://xan.ax/ used it for a domain which literally spells “xanax”
+
+
+
+
+
+
+
+**Finds:**
+
+
+
+
+[This should be New Rockyou 2024 wordlist, Make sure to run in Rdp or VM to check for bugs](https://btdig.com/4e3915a8ecf6bc174687533d93975b1ff0bde38a/rockyou2024)
+
+
+
+
+[Update on Rockyou2024 List:](https://specopssoft.com/blog/rockyou2024-analysis-password-leak/) at least 9 billion of those aren't actual passwords but generated combinations of ASCII characters which may or may not be passwords. the "leaker" just added all actually breached and known passwords to the old list, which was completely useless. so this is at least 90% useless and probably 9% well known and already in HIBP... the other 1% isn't worth downloading it since you would have no way to differentiate between those groups.
+
+
+
+
+
+
+
+If you don't know how to buy domains anonymously from Namecheap, I have another channel to recommend: Njal.la, and also you can use noip.com
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-7-20 | NEWS - Finds
+
+
+
+
+**News:**
+
+
+
+
+
+
+
+* [Monero network attack, Tor network attack, Cloudflare woes.](https://www.reddit.com/r/Monero/comments/1c3dmmc/monero_network_attack_tor_network_attack/?share_id=JBxTwRucaYy554T4RKs8c&utm_content=1&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22) | [XMR Attack - Rucknium Statistical Research](https://ccs.getmonero.org/proposals/Rucknium-Statistical-Research.html) | [MONERO_TOWN](https://monero.town/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Finds:**
+
+
+
+
+* [Crypto Exchange - StealthEX](https://stealthex.io/)
+
+
+
+
+* [Tria.ge Reports, Each entry contains the following details:](https://tria.ge/reports/public)
+
+
+
+
+```
+
+Sample ID: A unique identifier for the submission.
+
+Created: The date and time when the submission was created.
+
+Filename: The name of the submitted file.
+
+Tags: Any tags or labels associated with the submission, such as "ransomware," "persistence," "evasion," etc.
+
+Status/Score: The current status or score of the submission based on the analysis performed by the platform.
+
+SHA256: The SHA256 hash value of the submitted file.
+
+```
+
+
+
+
+* [FILE HAUS Hosting](https://filehaus.su)
+
+
+
+
+* CHECK [HOST](https://Check-host.net)
+
+ 
+
+* Downloaded BF 1.0 database and data Subforums - Used tool [JDownloader](https://jdownloader.org/) to download all files, good for downloading and transfering files between storage
+
+
+
+
+* EMAIL-OSINT: If you run the email through a OSINT tool like [osintIndustries](osint.industries) you can see the email is linked to his """hacker""" alias Gliz, his roblox username xXCOOLKID_MONEYxX and his fortnite alias iTrxpzz
+
+
+
+
+
+
+
+```
+
+
+
+
+*SOME USEFUL WEBSITES*
+
+
+
+
+Screenr.com: Record movies on your computer and send them straight to YouTube.
+
+Bounceapp.com: Capture full-length screenshots of web pages.
+
+Goo.gl: Shorten long URLs and convert them into QR codes.
+
+untiny.me: Find the original URLs hidden behind short URLs.
+
+localti.me: Know more than just the local time of a city.
+
+copypastecharacter.com: Copy-paste special characters that are not on your keyboard.
+
+topsy.com: A better search engine for Twitter.
+
+fb.me/AppStore: Search iOS apps without launching iTunes.
+
+iconfinder.com: Find icons of all sizes.
+
+office.com: Download templates, clipart, and images for your Office documents.
+
+
+
+
+woorank.com: Get information about a website.
+
+virustotal.com: Scan suspicious files or email attachments for viruses.
+
+wolframalpha.com: Get answers directly without searching.
+
+printwhatyoulike.com: Print web pages without the clutter.
+
+joliprint.com: Reformats news articles and blog content as a newspaper.
+
+isnsfw.com: Share a NSFW page with a warning.
+
+eggtimer.com: A simple online timer for your daily needs.
+
+coralcdn.org: Access a site through Coral CDN if it's down due to heavy traffic.
+
+random.org: Pick random numbers, flip coins, and more.
+
+mywot.com: Check the trust level of any website.
+
+
+
+
+viewer.zoho.com: Preview PDFs and Presentations directly in the browser.
+
+tubemogul.com: Upload videos to YouTube and other video sites simultaneously.
+
+truveo.com: Search web videos.
+
+scr.im: Share your email address online without worrying about spam.
+
+spypig.com: Get read receipts for your email.
+
+sizeasy.com: Visualize and compare the size of any product.
+
+whatfontis.com: Determine the font name from an image.
+
+fontsquirrel.com: A collection of fonts free for personal and commercial use.
+
+regex.info: Find data hidden in your photographs.
+
+tineye.com: An online version of Google Images.
+
+
+
+
+iwantmyname.com: Search domains across all TLDs.
+
+tabbloid.com: Get your favorite blogs delivered as PDFs.
+
+join.me: Share your screen with anyone over the web.
+
+onlineocr.net: Recognize text from scanned PDFs and images.
+
+flightstats.com: Track flight status at airports worldwide.
+
+wetransfer.com: Share large files online.
+
+pastebin.com: A temporary online clipboard for your text and code snippets.
+
+polishmywriting.com: Check your writing for spelling or grammatical errors.
+
+awesomehighlighter.com: Highlight important parts of a web page.
+
+typewith.me: Work on the same document with multiple people.
+
+
+
+
+whichdateworks.com: Find a date that works for everyone when planning an event.
+
+everytimezone.com: A clear view of world time zones.
+
+warrick.cs.odu.edu: Recover deleted bookmarked web pages.
+
+gtmetrix.com: Measure your site's performance online.
+
+imo.im: Chat with your buddies on Skype, Facebook, GoogleTalk, etc. from one place.
+
+translate.google.com: Translate web pages, PDFs, and Office documents.
+
+youtube.com/leanback: Enjoy YouTube videos in full-screen mode.
+
+similarsites.com: Discover new sites similar to what you already like.
+
+wordle.net: Quickly summarize long pieces of text with tag clouds.
+
+bubbl.us: Create mind maps and brainstorm ideas in the browser.
+
+
+
+
+kuler.adobe.com: Get color ideas and extract colors from photographs.
+
+followupthen.com: Set up quick reminders via email.
+
+lmgtfy.com: For when your friends are too lazy to use Google on their own.
+
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
+**Burpsuite THM Notes:**
+
+
+
+
+[Walkthrough Source](https://medium.com/@cyberjab/burp-suite-the-basics-tryhackme-writeup-8cbef178f0b0)
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-7-24 | NEWS - Finds
+
+
+
+
+
+
+
+
+
+
+
+
+
+**News:**
+
+
+
+
+
+
+
+
+
+
+**Finds:**
+
+
+
+
+* [OSINT TACTICAL Github](https://github.com/C3n7ral051nt4g3ncy?tab=repositories)
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-7-26
+
+
+
+
+
+
+
+**News:**
+
+
+
+
+
+
+
+NO NEWS
+
+
+
+
+
+
+
+**Finds:**
+
+
+
+
+
+
+
+MAC SPOOFING
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-7-29
+
+
+
+
+
+
+
+**Finds:**
+
+
+
+
+* msr x5
+
+
+
+
+INACTIVE TAB SEARCHES - 
+
+
+
+
+https://cyberbooter.su/
+
+
+
+
+
+
+
+BOOK FINDS:
+
+
+
+
+Parasitic mind
+
+
+
+
+The eplorers podcast
+
+
+
+
+The age of napolean
+
+
+
+
+Revolutions 
+
+
+
+
+- - - Dan carlen hardcore history 
+
+
+
+
+Glass cannon podcast
+
+
+
+
+The story if civiliation by durrant
+
+
+
+
+The pengiun edition of the eliade 
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-7-30
+
+
+
+
+
+
+
+
+
+
+**Finds:**
+
+
+
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+IntelBrokers breaches are so mundane and easy to do that literally anyone could do them. I'll give a simple example of how
+
+
+
+
+First find a source of free stealer logs, you can find many users giving them out for free on sites like xss.is or on telegram (https://t.me/addlist/x42QoPnTf8E3YzM0). Next you will want to extract as many as possible from their archive form, now install ripgrep (https://github.com/BurntSushi/ripgrep) and change directory to where you have extracted the logs.
+
+
+
+
+Now run the command
+
+rg -oUNI "URL:\s(.*?)[|\r]\nUsername:\s(.*?)[|\r]\nPassword:\s(.*?)[|\r]\n" -r '$1:$2:$3' --glob-case-insensitive -g "Passwords.txt" > combined.txt
+
+
+
+
+This will create a file of url:user:pass entries from your collection of stealer logs which can easily by searched by your tool of choice; klogg, ripgrep even notepad.
+
+
+
+
+Now to find the *good* stuff you will need to know some very basic regex here is an example of a ripgrep command using regex to find all email addresses with the prefix 'admin'.
+
+
+
+
+rg -ai 'admin@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+' combined.txt
+
+
+
+
+This will output every email that starts with 'admin' to your terminal you can now try to login to these stolen credentials and if they work! export the sites data or scrape it with a shitty python script and LARP being a 1337 ultra uber hakker XD.
+
+
+
+
+Here is an even better command that will allow you to LARP as well or even as better than IntelBroker
+
+
+
+
+rg -ai 'https?://(?:git|gitlab)\.[^\s/$.?#].[^\s]*' combined.txt
+
+
+
+
+You can now use the outputted credentials to login to small to medium sized companies (that don't use 2FA) with the stolen credentials found and use a tool like git-dumper (https://github.com/arthaud/git-dumper) to dump their source code repositories. You can now search the dumped repos for any database credentials, dump the database and post it to your hacking forum of choice! 
+
+
+
+
+If there is no database credentials, follow IntelBrokers example and make a sales thread for the source code. No one will buy it (because no one cares XD) but still after a week mark the thread as [SOLD] to keep up the LARP so you can keep pretending to be a big bad hacker. 🔥
+
+
+
+
+
+
+
+'''
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+
+
+
+### 2024-8-2 
+
+
+
+
+
+
+
+[!] 29
+
+
+
+
+**News:**
+
+
+
+
+[FLUX](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/) Open-source text-to-image model with 12B parameters (fal.ai)
+
+
+
+
+
+
+
+**Finds:**
+
+
+
+
+**Txt to image generator Stress Test Prompt:**
+
+
+
+
+```
+
+Good test for these tools so far has been the seven horned, seven eyed lamb mentioned in the Book of Revelation.
+
+Every tool I've tried has failed at this task
+
+```
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+CONTINUE ONTO "2024daily_pt2"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1,2,3
+
+
+
+
+
+
+
+
+
+
+### 2024-08-04 | NEWS - Finds
+
+
+
+
+
+
+
+**News:**
+
+
+
+
+Don’t Let Your Domain Name Become a “Sitting Duck” [Krebsonsecurity](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/) | [YCOMBINATOR COMMENTS](https://news.ycombinator.com/item?id=41125544
+
+)
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+**Finds:**
+
+
+
+
+
+
+
+[WALLPAPER MANAGERS](https://fmhy.net/system-tools#wallpaper-managers)
+
+
+
+
+
+
+
+[DOMAIN HUNTER](https://github.com/threatexpress/domainhunter)
+
+
+
+
+
+
+
+```
+
+
+
+
+Domain name selection is an important aspect of preparation for penetration tests and especially Red Team engagements. Commonly, domains that were used previously for benign purposes and were properly categorized can be purchased for only a few dollars. Such domains can allow a team to bypass reputation based web filters and network egress restrictions for phishing and C2 related tasks.
+
+This Python based tool was written to quickly query the Expireddomains.net search engine for expired/available domains with a previous history of use. It then optionally queries for domain reputation against services like Symantec Site Review (BlueCoat), IBM X-Force, and Cisco Talos. The primary tool output is a timestamped HTML table style report.
+
+
+
+
+```
+
+
+
+
+***
+
+
+
+
+### 2024-08-05 | NEWS - Finds
+
+
+
+
+
+
+
+**News:**
+
+
+
+
+
+
+
+* INSANE... ``` In 28 minutes, XBOW matched 40 hours of work by the most experienced pentester, who has 20 years of experience, with both solving 85%. ``` , [xbow](https://twitter.com/Xbow). A Comment made: ```I suspect bug bounty hunting will be a thing of the past in the next few years```
+
+
+
+
+* CFOR Exploit for Recovering Deleted and Private Github Commits: https://blog.sorcery.ie/posts/cfor_exploit/
+
+
+
+
+ * "How I Use Ai" by [Nicholas Carlini](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html), ``` https://news.ycombinator.com/item?id=41150317 ```
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+**Finds:**
+
+
+
+
+* Post from [har1sec](https://twitter.com/har1sec) Pasted Below, Here is his [Write_up](https://harisec.github.io/llm-dreams/)
+
+
+
+
+Stable Diffusion = text-to-image models
+
+
+
+
+```
+
+
+
+
+Friday project: LLM Dreams (images with the new Flux model 
+
+@bfl_ml from DeepSeek prompts) https://harisec.github.io/llm-dreams/
+
+Used random SD (stable Diffusion) prompts from a HF (Hugging Face) dataset and used DeepSeek to brainstorm other prompts and draw (think he emaqnt generated) the images using 
+
+@fal API (FAL website is posted Below here). Spent < 1 hour, code written by Claude.
+
+
+
+
+```
+
+
+
+
+[HF Dataset](https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts?row=18) where he chose prompts that har1sec used for his project
+
+
+
+
+* https://fal.ai/
+
+
+
+
+ ```
+
+
+
+
+FAL (formerly Fast AI Labs) is a generative media platform that offers a range of tools and services for developers to build and deploy AI-powered applications. It provides access to a variety of pre-trained models, including text-to-image, image-to-image, and audio-to-image models, as well as a suite of developer tools and APIs. FAL also offers a marketplace where developers can buy and sell models and services.
+
+
+
+
+```
+
+
+
+
+* Digital artwork: https://lexica.art/
+
+
+
+
+* Brainstorm with [Deep_Seek](https://www.deepseek.com/)
+
+
+
+
+* LLM Attacks Repository: https://github.com/llm-attacks/llm-attacks
+
+
+
+
+* [!] Applied LLM Courses: https://parlance-labs.com/education/
+
+
+
+
+* [!] Low Level Technicals of LLMs: Daniel Han [YT VIDEO](https://www.youtube.com/watch?v=pRM_P6UfdIc), FOUND FROM, Siddharth [POST](https://x.com/sidbing/status/1818912944853254280)
+
+
+
+
+* Bug Bounty Forum [Cybershield](https://forums.cybershieldctf.com/showthread.php?tid=116)
+
+
+
+
+* [afrog](https://github.com/zan8in/afrog) A Security Tool for Bug Bounty, Pentest and Red Teaming.
+
+
+
+
+Cybershield Thread ```How I found 250 Bug in one Subdomain``` [Link](https://forums.cybershieldctf.com/showthread.php?tid=116)
+
+
+
+
+***
+
+
+
+
+### 2024-08-06 | STARTING LISTENING TO TECHNICALS OF LLM VIDEO
+
+
+
+
+
+
+
+**NOTES HERE:**
+
+
+
+
+Regimen = Parameters 
+
+
+
+
+Whats the plan is like saying whats the “ set parameters”
+
+
+
+
+
+
+
+.
+
+.
+
+.
+
+
+
+
+**News:**
+
+
+
+
+* https://discuss.huggingface.co
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-08-07 
+
+
+
+
+* Engineer maintenance jobs
+
+
+
+
+* Gulf stream elevtrician job . Need to be able to read the blueprints its alot
+
+
+
+
+* Try this to scrape reddit: https://github.com/bellingcat/knewkarma
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-08-08
+
+
+
+
+New August 2024 BF Leak
+
+
+
+
+Hackers stole 2.9 billion records, including SSNs and phone numbers, from National Public Data... Really? Is there anything I can do? This is the fourth time my data has been leaked (as far as I know). At this point, I don't even answer calls from unknown numbers anymore - https://x.com/H4ckManac/status/1820892378896449612
+
+
+
+
+
+
+
+Tanner planes digital drop shipping course 
+
+
+
+
+https://mega.nz/folder/jiQh1RpB#659E0hzXFHbfzP7poBELbg/folder/Kj5z0QLT
+
+
+
+
+
+
+
+EBT logs smack. Msr x6
+
+
+
+
+
+
+
+Download book
+
+
+
+
+https://singlelogin.re/s/your%20face%20belongs%20to%20us
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-08-10
+
+
+
+
+* This [Repository](https://github.com/reddelexc/hackerone-reports/tree/master/tops_by_bug_type) will help Master Bugs from POC Bounties posted. READ in your free time
+
+
+
+
+* Search hundreds of databases on breach(.)vip
+
+
+
+
+
+
+
+#### Health and Wellness Notes:
+
+
+
+
+
+
+
+**Supplements -**
+
+
+
+
+Basics:
+
+
+
+
+﻿﻿
+
+multivitamin or b-complex (methylated if tolerated)
+
+﻿﻿
+
+cover deficiencies (like vitamin D3 + K2)
+
+﻿﻿
+
+omega 35 (EPA+DHA)
+
+﻿﻿
+
+magnesium
+
+﻿﻿
+
+creatine monohydrate
+
+﻿﻿
+
+supplements to improve sleep if necessary
+
+
+
+
+
+
+
+Longevity:
+
+
+
+
+﻿﻿
+
+glycine
+
+﻿﻿
+
+NAC
+
+﻿﻿
+
+taurin
+
+﻿﻿
+
+collagen
+
+
+
+
+
+
+
+**Resources -**
+
+
+
+
+
+
+
+Nutrition
+
+﻿﻿Dr. Ghil Carvalhio, Nutrition Made Simple: https:// www.youtube.com/@NutritionMadeSimple
+
+﻿﻿Layne Norton, PhD / biolayne: https:// biolayne.com/ /https://www.youtube.com/
+@biolayne1
+
+﻿﻿Precision Nutrition: https:// www.precisionnutrition.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Health and Optimization
+
+﻿﻿Peter Attia, MD: https://peterattiamd.com// https://www.youtube.com/@PeterAttiaMD
+
+﻿﻿Rhonda Patrick, PhD / FoundMyFitness: https:// www.foundmyfitness.com// https://
+www.youtube.com/@FoundMyFitness
+
+﻿﻿Nicolas Verhoeven, PhD / Physionic: https:// www.physionic.org//https://www.youtube.com/
+@Physionic
+
+﻿﻿Doctor Mike: https://
+www.doctormikemedia.com// https://
+www.youtube.com/@DoctorMike
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research
+
+﻿﻿labdoor: https:///abdoor.com/
+
+﻿﻿Examine: https://examine.com/
+
+﻿﻿Google scholar: https://scholar.google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+
+
+
+This office is not a government
+
+agency and they do not verify any SSN
+
+given to them. In previous books, I have
+
+mentioned that SSNs such as 987-65-
+
+4321 will never be assigned to anyone,
+
+but they appear fake if scrutinized.
+
+Therefore, I gave her 666-12-9873.
+
+Many years ago, the Social Security
+
+Administration decided that they
+
+would not issue SSNs which began with
+
+666 because it was commonly believed
+
+to be the “sign of the beast”.
+
+
+
+
+```
+
+
+
+
+[Source Pg. 7](https://inteltechniques.com/issues/006.pdf)
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-08-11
+
+
+
+
+
+
+
+[Blacklight](https://themarkup.org/series/blacklight), Enter the address of any website, and Blacklight will scan it and reveal the specific user-tracking (cookies) technologies on the site.
+
+
+
+
+Use this Url to explore Public Pastebin publishes, change any word after the slash to search ```https://pastebin.com/archive/<python>```
+
+
+
+
+OB2 Overview [Article](https://deviceandbrowserinfo.com/learning_zone/articles/overview-open-bullet2) Series
+
+
+
+
+This can be used to change voice in calls: 
+
+
+
+
+https://vb-audio.com/Voicemeeter/
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-08-12 | DIY COLD PLUNGE
+
+
+
+
+DIY coldplunge (check instagram too)
+
+
+
+
+https://docs.google.com/spreadsheets/d/1SMYhvi60TAH9SmoRA76FJ5tlHbTGbjRDkSSVH5bHLy0/htmlview
+
+
+
+
+***
+
+
+
+
+### 2024-08-20
+
+
+
+
+* Fake Insect AI game hosted in Hugging Fave Spaces - https://huggingface.co/spaces/victor/fake-insects
+
+
+
+
+***
+
+
+
+
+### 2024-08-28
+
+
+
+
+
+
+
+Create free developer blog for myself? https://hashnode.com
+
+
+
+
+His are good: https://hashnode.com/@bscript
+
+
+
+
+Competitive priced VPS Provider: https://www.hetzner.com/cloud/
+
+
+
+
+ADD TO NEWS: https://www.phonearena.com
+
+
+
+
+
+
+
+Ai Code Editor - https://www.cursor.com
+
+
+
+
+“”
+
+
+
+
+I just asked it to write a README for a project I've been working on - analyzed the code-base and worked first time.
+
+
+
+
+“”
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-08-29
+
+
+
+
+* GET A Vps and tst new tools posted in tele page (pinned)
+
+* Hotel I forgot my Charger
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-09-05
+
+
+
+
+DSTAT STRESS TEST SERVICES AND TOOLS FOUND FROM LISTENING IN TCP DISCORD SERVER - https://discord.gg/ujdEkDXP
+
+
+
+
+* https://check-host.net/ip-info?host=198.54.134.175&csrf_token=5ca752f85746a3c730e48a0bb59424a9ce6b1a3a
+
+* https://tcpsyn.click/
+
+* https://www.vacstresser.ru/auth/signup
+
+* https://dreadfulservices.online/lookup
+
+* https://ddoswf.live/index
+
+* https://tools.keycdn.com/geo?host=160.153.62.163
+
+* https://dstat.cc/
+
+* https://cfxsecurity.ru/
+
+* https://dstat.love/
+
+* https://check-host.cc/
+
+
+
+
+
+
+
+[-] Learning Resource: https://www.datacamp.com/pricing?period=yearly
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-09-09
+
+
+
+
+
+
+
+* [Math] Cracking Wi-Fi password using combinatorics: https://yurichev.com/n/wifi_comb/
+
+
+
+
+* Avoid HOtel wifi Splash Pages: [Source P. 25](https://inteltechniques.com/issues/006.pdf)
+
+
+
+
+```
+
+
+
+
+Next time you
+
+are at a hotel and your travel router
+
+cannot associate with the Wi-Fi due to
+
+a splash page, use that Wi-Fi antenna
+
+dongle on your laptop to log in, then
+
+clone the dongle’s MAC address to
+
+your travel router. No guarantees, of
+
+course, but it tends to allow your router
+
+to associate as if it were the original
+
+antenna dongle
+
+
+
+
+```
+
+
+
+
+
+
+
+* Sauce University Notes:
+
+
+
+
+Add Here
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-09-15
+
+
+
+
+
+
+
+WIFI CRACKING. TST THIS AFTER ROCKYOU ON AP
+
+
+
+
+https://github.com/soxrok2212/PSKracker/tree/master/dicts
+
+
+
+
+Below may help with "ATT..." Access Points
+
+
+
+
+https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length
+
+
+
+
+[Math] Cracking Wi-Fi password using combinatorics - - https://yurichev.com/n/wifi_comb/
+
+
+
+
+
+
+
+best delay between packets is " -x 5 "
+
+
+
+
+aireplay-ng -0 50 -a (insert here) -c (insert here) -x 5 wlan1mon
+
+
+
+
+- - - -
+
+
+
+
+ROCKYOU still still hits in 2024, wapped 2 AP with the list
+
+
+
+
+***
+
+
+
+
+
+
+
+#2024-09-22
+
+
+
+
+
+
+
+* Find trusted lawyer for your case: [PRIKLE](https://prakle.com/en/)
+
+
+
+
+
+
+
+***
+
+
+
+
+#2024-09-23
+
+
+
+
+**News:**
+
+
+
+
+* [T.V.](https://archive.org/details/tv) Archive of old NEWS Videos (Over 2million videos)
+
+
+
+
+* [Top Phishing Techniques](https://redteamrecipe.com/top-phishing-techniques) Blog post found on OSINT TG channel
+
+
+
+
+```Emkei.cz is an online tool that allows users to send spoofed emails by simply filling out a form```
+
+
+
+
+* [Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) HGithub Repository - - - Jailbreaks - GPT Agents System Prompt Leaks - Prompt Injection - Secure Prompting and more.
+
+
+
+
+
+
+
+**Project of the Day**
+
+
+
+
+* I want to Host an unrestricted LLM on my host machine and then look into finding vulnrubailities using this unrestricted model. Idea Sourced from [THIS](https://www.youtube.com/watch?v=YZqiWFyq-OE&t=1897s) D Bombal talk
+
+
+
+
+Started with downloading Ollama on Kali linux VM using Llamma 3.1 model. it started off restricted but intrusted me to type ``` `remove_restrictions` ``` to remove the restriction guardrails, i did this but had trouble later down the road with more minor restrictions fromt he model. Model also ran very slow and was maxing out all the resources available by the VM. i need to learn optimal specs required to run a LLM locally using ollama 
+
+
+
+
+Ideal Specs for Running an LLM Locally using Ollama - [GPT Suggestion](https://raw.githubusercontent.com/c2dmp/nts/refs/heads/main/Ideal%20Specs%20Running%20LLM%20ollama.txt)
+
+
+
+
+Suggested VRAM - A100-80G GPU instance.
+
+
+
+
+Suggestion of running Ollama on a rented cloud instance instead of investing in the expensive hardware (Specifically a GPU with enough VRAM) to run the LLM, - [Cloud Based Average Pricing options](https://raw.githubusercontent.com/c2dmp/nts/refs/heads/main/Cloud%20Based%20pricing%20for%20running%20LLM.txt)
+
+
+
+
+
+
+
+Cloud GPU Price Comparison [Website](https://getdeploying.com/reference/cloud-gpu)
+
+
+
+
+* Going to rent A100 gpu from [Vast Ai](https://cloud.vast.ai/billing/)
+
+
+
+
+Continue with figuring out how to remove weights and parameters on a model using ollama
+
+
+
+
+try wizard 13b llm
+
+
+
+
+***
+
+
+
+
+### 2024-09-25
+
+
+
+
+**Finds**
+
+
+
+
+
+
+
+https://github.com/iAnonymous3000/ai-privacy-guide?tab=readme-ov-file#self-hosted-ai-solutions
+
+
+
+
+
+
+
+**Understanding UGI Leaderboard**
+
+
+
+
+https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard
+
+
+
+
+UGI: Uncensored General Intelligence. A measurement of the amount of uncensored/controversial information an LLM knows and is willing to tell the user. It is calculated from the average score of 5 subjects LLMs commonly refuse to talk about. The leaderboard is made of roughly 65 questions/tasks, measuring both willingness to answer and accuracy in fact-based controversial questions. I'm choosing to keep the questions private so people can't train on them and devalue the leaderboard.
+
+
+
+
+#P: Position on the Leaderboard, Lower = Less Censorship
+
+
+
+
+
+
+
+
+
+
+**UGI Leaderboard Finds**
+
+
+
+
+https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
+
+
+
+
+https://huggingface.co/Qwen/Qwen2.5-14B-ah
+
+
+
+
+**Path to uncensored LLM**
+
+
+
+
+* Literature read on how to achieve this
+
+
+
+
+https://erichartford.com/uncensored-models
+
+
+
+
+```
+
+
+
+
+Most of these models (for example, Alpaca, Vicuna, WizardLM, MPT-7B-Chat, Wizard-Vicuna, GPT4-X-Vicuna) have some sort of embedded alignment. For general purposes, this is a good thing. This is what stops the model from doing bad things, like teaching you how to cook meth and make bombs. But what is the nature of this alignment?
+
+
+
+
+```
+
+
+
+
+https://news.ycombinator.com/item?id=40665721
+
+
+
+
+https://huggingface.co/failspy/llama-3-70B-Instruct-abliterated/blob/main/ortho_cookbook.ipynb
+
+
+
+
+https://huggingface.co/failspy/llama-3-70B-Instruct-abliterated/blob/main/ortho_cookbook.ipynb
+
+
+
+
+
+
+
+* Take docker THM Course (bigstamp@kalistamp.ink FuckthisTHM)
+
+* Learn about docker and set up an open source model in docker before renting vast ai which is docker based
+
+
+
+
+* GPT4ALL was nice but it only uses host resources
+
+
+
+
+***
+
+
+
+
+### 2024-09-26
+
+
+
+
+**News**
+
+
+
+
+* Meta Releases Llama 3.2—and Gives Its AI a Voice [Article](https://www.wired.com/story/meta-releases-new-llama-model-ai-voice/)
+
+
+
+
+
+
+
+**Back on the Docker Journey**
+
+
+
+
+Commands Ran:
+
+
+
+
+docker pull ubuntu (downloads ubuntu image)
+
+
+
+
+docker images to confirm ubuntu downloaded 
+
+
+
+
+docker run -it ubuntu (To create and start a container from the Ubuntu image)
+
+
+
+
+Once inside ubuntu i realized the git command could not be installed because the os had to first be updated "apt update"
+
+
+
+
+Then git could be installed w/ "apt install git"
+
+
+
+
+| - - - - - > > >
+
+
+
+
+Moving on now to Downloading [llama.cpp](https://github.com/ggerganov/llama.cpp)
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-09-27
+
+
+
+
+
+
+
+* Run docker course on THM
+
+
+
+
+
+
+
+Intro to Docker THM [Notes](https://github.com/kalistamp/llm/blob/main/Intro%20to%20Docker%20THM.md)
+
+
+
+
+* Test llama cpp with Nous Hermes 3 8B Model
+
+
+
+
+* See what limits are with my hardware then test out Vast ai and note the pros and cons of renting a gpu
+
+
+
+
+***
+
+
+
+
+### 2024-09-30
+
+
+
+
+**Docker Commands Used in Powershell**
+
+
+
+
+* Starting docker and creating a new conatiner with a specific "image" (operating system version) that you choose in the command (new docker container name and hash will be generated from command):
+
+
+
+
+```docker run -it ubuntu``` - Once inside ubuntu i realized the git command could not be installed because the os had to first be updated ```apt update``` | Then git could be installed w/ ```apt install git```
+
+
+
+
+* How would i start and attatch to a docker container i already have created and worked in before:
+
+
+
+
+If the container is stopped, first start it with ```docker start <container_name_or_id>```
+
+
+
+
+If the container is running, and want to stop it with ```docker stop <container_name_or_id>```
+
+
+
+
+Then attatch to it interactivly ```docker attach <container_name_or_id>```
+
+
+
+
+* Bonus Commands found
+
+
+
+
+View container logs, To see the output of a running container without attaching to it ```docker logs <container_name_or_id>```
+
+
+
+
+Inspect container details To view detailed information about the container ```docker inspect <container_name_or_id>```
+
+
+
+
+***
+
+
+
+
+### 2024-10-01
+
+
+
+
+**News Finds**
+
+
+
+
+* [POST](https://news.ycombinator.com/item?id=41714361) "My go-to for habit formation stuf/breaking is "Atomic Habits" by James Clear, highly recommend. It's one of those books it's useful to re-read every few years."
+
+
+
+
+Atomic Habits [Book](https://jamesclear.com/atomic-habits)
+
+
+
+
+* Open AI [Dev Day](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/) breaks down now open ai model "GPT 1o", explaining new features like fine tuning with **prompt caching** ,  **Model distillation:** where a smaller model is taught by a larger model, and you can now use **images to fine-tune** the model. **system prompts**, **structured outputs** and **function calling** are expected by the end of the year said by Sam Altman at the event. [Open ai 1o](https://openai.com/o1/)
+
+
+
+
+*
+
+
+
+
+```
+
+
+
+
+If you're not a fan of Microsoft Edge's browser and if you aren't using it, you can easily remove it
+
+1. Open Powershell > RUN AS ADMIN
+
+
+
+
+2. Paste in irm https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6/raw/UninstallEdge.ps1 | iex and press enter
+
+
+
+
+3. Microsoft Edge will be uninstalled with no traces in the start menu!
+
+
+
+
+```
+
+
+
+
+*  Countdown for Upcoming Movies [Movie Countdown](https://moviescountdown.com/)
+
+
+
+
+*  Qbittorrent [Theme](https://github.com/catppuccin/qbittorrent)
+
+
+
+
+qBittorrent 5.0.0 now available and offers Dark Mode !
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-10-03
+
+
+
+
+* [FLUX1.1 (pro)](https://replicate.com/black-forest-labs/flux-1.1-pro) – New SotA text-to-image model from Black Forest Labs [Article](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/)
+
+* Comments from HN post on FLUX 1.1 [someone explains](https://news.ycombinator.com/item?id=41730822) training process for Text to image generator
+
+* [Civit_ai](https://civitai.com/) is a platform for sharing and using AI models to generate images and other content
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-10-04
+
+
+
+
+**Notes:**
+
+
+
+
+* Work on Training an ai Model Next (check Bullet point above from 10/3 with training explaination from HN Comment)
+
+* Test out Vast ai still
+
+
+
+
+**Finds:**
+
+
+
+
+* [URL Scanner](https://urlscan.io/) known to show scanned urls used on there site that may have personal information, "Chatty security tools leaking private data" [Source](https://positive.security/blog/urlscan-data-leaks)
+
+* Exploring [Llamafile:](https://future.mozilla.org/builders/news_insights/introducing-llamafile/) Mozilla's Attempt in the World of Open Source AI [Source](https://itsfoss.com/llamafile/)
+
+* How to Guess a Password: Your [2024 Guide](https://www.stationx.net/how-to-guess-a-password/), added this as well to wifi [repo](https://github.com/kalistamp/wifi_kit/blob/main/How%20to%20Guess%20a%20Password_%20Your%202024%20Guide.pdf)
+
+
+
+
+* "Hey. I’ve added Practice filter to Sploitify (https://sploitify.haxx.it). So now you can find machines to play with particular sploits or related to specific vulns" [Source](https://x.com/haxxm0nkey/status/1831723045003624645)
+
+
+
+
+**Lamma CPP Setup Notes**
+
+
+
+
+(how to exit hugginface_env on linux?) = Simply type ```deactivate```
+
+
+
+
+(how to activate huggingface_env on linux?) = Simply type ```source hf_env/bin/activate```
+
+
+
+
+(how to exit python3 mode in linux?) = Simply type ```Ctrl+D```
+
+
+
+
+* Installing huggingface-cli on linux docker:
+
+
+
+
+1. Create a virtual environment: ```python3 -m venv huggingface_env```
+
+
+
+
+2. Activate the virtual environment: ```source huggingface_env/bin/activate```
+
+
+
+
+3. Now that you're in the virtual environment, upgrade pip: ```pip install --upgrade pip```
+
+
+
+
+4. Install the Hugging Face CLI: ```pip install -U "huggingface_hub[cli]"```
+
+
+
+
+5. Verify the installation: ```huggingface-cli --help```
+
+
+
+
+6. Once you have your token, run the following command in your terminal: ```huggingface-cli login```
+
+
+
+
+7. Check to see if huggingface-cli was logged in successfully: ```huggingface-cli whoami```
+
+
+
+
+8. Use the Correct Repository Format - The format should be owner/repository, for example: ```huggingface-cli download TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF```
+
+
+
+
+* You can browse and use any model on Hugging Face which is in the GGUF format.
+
+
+
+
+```GGUF is a file format for storing models for inference with GGML and executors based on GGML. GGUF is a binary format that is designed for fast loading and saving of models, and for ease of reading. Models are traditionally developed using PyTorch or another framework, and then converted to GGUF for use in GGML.```
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-10-06
+
+
+
+
+**FINDS**'
+
+
+
+
+```1 billion parameters ≈ 4-6 GB of storage space```
+
+
+
+
+* [!] READ OVER LLM REDTEAMING + OWASP LLM TOP 10 - [Prmpt Foo](https://www.promptfoo.dev/docs/red-team/)
+
+
+
+
+* [Folder Fort(https://www.folderfort.com/) Offering lifetime 1TB cloud storage for $100. free plan available as well
+
+
+
+
+* Additon to to llm [Repo](https://github.com/kalistamp/llm/tree/main) "Specialized Language Models and Their Applications"
+
+
+
+
+```https://na2.folderfort.com/login``` - ```jnk@kalistamp.ink```
+
+
+
+
+* Excerpt from a reddit post i was reading on use cases for running llm locally, seems more of like just a hobby at this point [Source](https://www.reddit.com/r/LocalLLaMA/comments/16954fj/what_do_you_use_your_local_llm_for/)
+
+
+
+
+```
+
+
+
+
+I'm using local models for two reasons.
+
+
+
+
+First, I wanted to understand how the technology works. I've written a couple programs, one to load a LLM model and some PDFs then ask questions about the PDF contents, and a second to understand how to load Stable Diffusion models and generate images.
+
+
+
+
+Second, I wanted to be able to use LLMs to query PDFs such as technical papers. I am able to load up ti 13B parameter models and have mixed results with their accuracy.
+
+
+
+
+Currently I'm slowly working thru Andrej Karpathy's makemore videos to understand more of the details of how LLM models work, but that's slow going as I have none of the math background, but I have learned a bit.
+
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
+[-] [-] [-] 
+
+
+
+
+
+
+
+**Transfering Docker to External Drive***
+
+
+
+
+MY PROBLEM HERER I THINK IS THE CONTAINER IS 300GB SPACE STORED, I NEEED TO LOOK INTO CREATING CONTAINERS THAT DO NOT TAKE UP 300GB IN THE FUTURE
+
+
+
+
+```( Below is a chat gpt response helping with instructions found on reddit for this solution for changing Docker's storage location [Source](https://poe.com/s/cAbK0mBdrawR1zJeni7W) )```
+
+
+
+
+
+
+
+Certainly, I can provide you with the equivalent instructions for Windows. Here's how you can change Docker's storage location on a Windows system:
+
+
+
+
+1. Stop Docker Desktop:
+
+   - Right-click on the Docker icon in the system tray
+
+   - Select "Quit Docker Desktop"
+
+
+
+
+2. Edit or create the daemon configuration file:
+
+   - Open File Explorer and navigate to `C:\Users\<YourUsername>\.docker`
+
+   - If `daemon.json` doesn't exist, create a new text file and name it `daemon.json`
+
+   - Open `daemon.json` with a text editor (like Notepad)
+
+
+
+
+3. Add or modify the following content in the `daemon.json` file:
+
+
+
+
+```
+
+{
+
+  "builder": {
+
+    "gc": {
+
+      "defaultKeepStorage": "20GB",
+
+      "enabled": true
+
+    }
+
+  },
+
+  "experimental": false,
+
+  "data-root": "D:\\path\\to\\externaldrive\\docker-files"
+
+}
+
+```
+
+
+
+
+Replace `D:\\path\\to\\externaldrive\\docker-files` with the actual path where you want Docker to store its data. Use double backslashes `\\` for directory separators in Windows paths.
+
+
+
+
+4. If you want to keep your existing Docker data:
+
+   - Open File Explorer and navigate to `C:\ProgramData\Docker`
+
+   - Copy all contents from this folder to your new location specified in `daemon.json`
+
+
+
+
+5. Restart Docker Desktop:
+
+   - Start Docker Desktop from the Start menu or desktop shortcut
+
+
+
+
+After completing these steps, Docker should now use the new location for storing its data.
+
+
+
+
+Note: Depending on your Windows version and Docker Desktop settings, you might need to run Docker Desktop as an administrator for these changes to take effect.
+
+
+
+
+Would you like me to explain any part of these instructions in more detail?
+
+
+
+
+
+
+
+```[Q:]```  i tried step 4 but my container that was made before is still missing
+
+
+
+
+TEST THIS STILLLLL    . . . . . . . . I NEED 300 GB AVAILABLE ... TEST THIS ON PLEX
+
+
+
+
+I apologize for the confusion. If your previously created container is still missing after changing the data-root, it's likely because the data wasn't properly migrated. Let's try to recover your container by following these steps:
+
+
+
+
+1. First, stop Docker Desktop completely if it's running.
+
+
+
+
+2. Locate the original Docker data directory. By default, it's typically in one of these locations:
+
+   - `C:\ProgramData\Docker`
+
+   - `C:\Users\<YourUsername>\AppData\Local\Docker`
+
+
+
+
+3. In this original location, look for a folder named `containers`. This is where information about your containers is stored.
+
+
+
+
+4. Copy the entire `containers` folder from the original location to your new data-root location: `D:\docker_wrk\`
+
+
+
+
+5. Also, copy these folders if they exist in the original location:
+
+   - `image`
+
+   - `volumes`
+
+   - `buildkit`
+
+
+
+
+6. After copying, your `D:\docker_wrk` directory should have a structure similar to this:
+
+   ```
+
+   D:\docker_wrk\
+
+   ├── containers\
+
+   ├── image\
+
+   ├── volumes\
+
+   ├── buildkit\
+
+   └── ... (other folders)
+
+   ```
+
+
+
+
+7. Start Docker Desktop again.
+
+
+
+
+8. Open a command prompt and run:
+
+   ```
+
+   docker ps -a
+
+   ```
+
+   This should list all your containers, including the ones that were created before changing the data-root.
+
+
+
+
+If your container is still not visible, we might need to try a different approach:
+
+
+
+
+1. In the original Docker data location, look for a file named `meta.db` in the `containers` folder.
+
+
+
+
+2. Copy this `meta.db` file to the `containers` folder in your new location (`D:\docker_wrk\containers\`).
+
+
+
+
+3. Restart Docker Desktop again and check if your container appears.
+
+
+
+
+If these steps don't work, it's possible that the container's data might not be fully recoverable. In this case, you might need to recreate the container.
+
+
+
+
+For future reference, it's always a good idea to export important containers or commit them to images before making significant changes to Docker's configuration.
+
+
+
+
+Let me know if this helps or if you need any further assistance!
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-10-10
+
+
+
+
+**Search Ollama built in Library**
+
+
+
+
+[Ollama Library](https://ollama.com/library)
+
+
+
+
+**Ollama Notes**
+
+
+
+
+* You can use the ```free``` command to check memory usage on linux machine: ```free -h```
+
+
+
+
+* First install Curl after an update: ```apt-get install -y curl```
+
+
+
+
+* Next download ollama with curl on machine: ```curl -fsSL https://ollama.com/install.sh | sh```
+
+
+
+
+* Verify the installation path for ollama: ```which ollama```
+
+
+
+
+*  Launch Ollama server: ```ollama serve```
+
+
+
+
+* * To Pull a model to Ollama use: ```ollama pull <model name>```
+
+
+
+
+* To list all available models in Ollama: ```ollama list```
+
+
+
+
+* After reviewing the models downloaded on your machine using "list command remove a model to create more memory on machine with rn command: ```ollama rm <model_name_from_list>```
+
+
+
+
+* To connect to this server and use Ollama, you should now be able to open a new Powershell terminal window or tab and run Ollama commands... You can do it like this when using docker: ```docker exec -it <container_name_or_id> bash```
+
+
+
+
+* To log your entire interaction with Ollama into a text file using tee: ```ollama run wizard-vicuna-uncensored:latest | tee ollama_conversation.txt```
+
+
+
+
+* Then transfer the Files out of the docker container onto the host windows machine: ```docker cp cranky_bouman:/home/ubuntu/tst.txt <THE SPLIT IS HERE DELETE THIS> C:\Users\kalistamp\Documents\XuanZhi64\tst.txt```
+
+
+
+
+[!] LLM DIRECTIONS:
+
+
+
+
+To transfer the text file from your Linux container to your Windows host machine, you can use the following docker cp command: 
+
+
+
+
+```docker cp cranky_bouman:/path/to/file/in/container.txt C:\path\on\windows\host\```
+
+
+
+
+
+
+
+
+
+
+* More Ollama commands i found that can be used:
+
+
+
+
+```ollama show``` - Display information about a model
+
+
+
+
+```ollama push``` - Push a model to a registry
+
+
+
+
+```ollama cp``` - Copy a model
+
+
+
+
+
+
+
+* Check out some [test prompts](https://github.com/declare-lab/red-instruct/blob/main/README.md) to eval a models censorship lvl
+
+
+
+
+* Best models tested for the day:
+
+
+
+
+```
+
+
+
+
+NAME                                       ID              SIZE      MODIFIED
+
+krith/meta-llama-3.1-8b-instruct:IQ4_XS    e38a8fa03138    4.4 GB    About an hour ago
+
+wizard-vicuna-uncensored:latest            72fc3c2b99dc    3.8 GB    4 hours ago
+
+
+
+
+```
+
+
+
+
+[ Decided to try and look into logging so that allmy chats with the model would be saved after use, but i edited the ./bashrc file in root and think i destroyed the server. whole directories are hidden or missing and im gaving troubl changing around - Look into logging everything on the terminal when working with llm so i have chat history and evidence to review -  " wizard-vicuna-uncensored " gave me the most success from test prompts sourced from [This](https://www.reddit.com/r/LocalLLaMA/comments/1bhvlo2/comment/kvgm26w/) Reddit Post, specifically this [Guy](https://www.reddit.com/r/LocalLLaMA/comments/1bhvlo2/comment/kvgm26w/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) ]
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+### 2024-10-11
+
+
+
+
+**News:**
+
+
+
+
+* Wait what, there’s $2/hr H100s GPU Rental price going? - Oh man, it’s fine-tuning time [Source](https://www.reddit.com/r/LocalLLaMA/s/N2n789b4DU)
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+### 2024-10-12
+
+
+
+
+**News**
+
+
+
+
+* Release of new Llama 3 *b unaligned Beta Model released - Low Censorship lvls [Source](https://www.reddit.com/r/LocalLLaMA/comments/1g1vtyq/llama3_8b_unaligned_beta_released/)
+
+
+
+
+[HF Link](https://huggingface.co/SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA)
+
+
+
+
+* Hugging Chat is a great alternative to quickly check good open source models: https://huggingface.co/chat/
+
+
+
+
+Also look into this new update how does it work? - https://x.com/cyrilzakka/status/1843700985304396215?s=46&t=pwQ442o-Au7HCQ5yVVTJyQ
+
+
+
+
+
+
+
+**Read**
+
+
+
+
+* Understand what ``ggml`` is and how it is the backend code (written in C & C++) that is used to run Large Language Models in ``gguf`` format. This has opened to avility for on device hosting of LLMs - [Introduction to ggml Read](https://huggingface.co/blog/introduction-to-ggml)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.facebook.com/marketplace/item/1634468520439042/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3A04f0e700-cdb2-45c5-86b9-365dd661f421
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+### 202-10-13
+
+
+
+
+**Finds**
+
+
+
+
+* Game: Jailbreak models in [RedAreana](https://redarena.ai/)
+
+* Use [LM-Arena](https://lmarena.ai/) to test multiple models at the same time with a prompt to see the different outputs
+
+
+
+
+Both Sources above came from this HN [Ppost](https://news.ycombinator.com/item?id=41649763)
+
+
+
+
+
+
+
+**Understanding token counts**
+
+
+
+
+```Here are some helpful rules of thumb for understanding tokens in terms of lengths: 1 token ≈ 4 chars in English. On average, one word is equivalent to about 1 - 1.5 tokens in English.```
+
+
+
+
+Model Size vs. Token Count: A 3B parameter model trained on 25M Tokens of data, For a 3B parameter model, 25M tokens is a relatively small amount of training data. This suggests the training was likely fine-tuning or specialization rather than full pre-training.
+
+
+
+
+**Understanding Models Token context length window**
+
+
+
+
+Implications of context length window
+
+
+
+
+1. Extended Memory: The model can "remember" and process about 16,000 tokens of information at once, which is roughly equivalent to 12,000-13,000 words or about 20-25 pages of text3.
+
+
+
+
+2. Improved Coherence: With this large context window, the model can maintain coherence over longer passages, understanding and referencing information from earlier parts of the input more effectively2.
+
+
+
+
+3. Complex Task Handling: The extended context allows for more sophisticated analysis, summarization, and generation tasks that require understanding large amounts of text at once3.
+
+
+
+
+4. Reduced Need for Chunking: Unlike models with smaller context windows, this model can process longer documents or conversations without the need to break them into smaller pieces, which can lead to more cohesive and contextually aware outputs.
+
+
+
+
+
+
+
+**Course**
+
+
+
+
+* REFER TO NOTES MADE IN THE [COURSE](https://github.com/kalistamp/llm/tree/main/Courses/Microsoft%3A%20generative-ai-for-beginners) REPOSITORY
+
+
+
+
+***
+
+
+
+
+### 2024-10-15
+
+
+
+
+
+
+
+**Network Chuck Docker ["18 Weird and Wonderful ways I use Docker"](https://www.youtube.com/watch?v=RUqGlWr5LBA) Notes**
+
+
+
+
+* How to Run a Web Browser Inside Docker
+
+
+
+
+Use docker to pull and run a container from linuxserver.io 
+
+
+
+
+(All other linuxserver containers can be viewed in the githubs repositories list)
+
+
+
+
+CMD for firefox container [Source](https://github.com/linuxserver/docker-firefox)
+
+
+
+
+```docker pull lscr.io/linuxserver/firefox:latest```
+
+
+
+
+```docker image ls```
+
+
+
+
+```
+
+docker run -d `
+
+--name=firefox `
+
+--security-opt seccomp=unconfined `
+
+-e PUID=1000 `
+
+-e PGID=1000 `
+
+-e TZ=Etc/UTC `
+
+-e FIREFOX_CLI=https://news.ycombinator.com/ `
+
+-p 3000:3000 `
+
+-p 3001:3001 `
+
+-v C:\path\to\config:/config `
+
+--shm-size="1gb" `
+
+--restart unless-stopped `
+
+lscr.io/linuxserver/firefox:latest
+
+```
+
+
+
+
+Run ```docker ps``` to make sure the container is now up and running in docker
+
+
+
+
+Navigate to web browser and go to ```http://localhost:3000/``` (port 3000)
+
+
+
+
+
+
+
+* Again This time for kali linux in Browser
+
+
+
+
+```docker pull lscr.io/linuxserver/kali-linux:latest```
+
+
+
+
+```docker image ls```
+
+
+
+
+
+
+
+```
+
+docker run -d `
+
+--name=kali-linux `
+
+--security-opt seccomp=unconfined `
+
+-e PUID=1000 `
+
+-e PGID=1000 `
+
+-e TZ=Etc/UTC `
+
+-e SUBFOLDER=/ `
+
+-e TITLE="Kali Linux" `
+
+-p 3000:3000 `
+
+-p 3001:3001 `
+
+-v C:\path\to\data:/config `
+
+-v //var/run/docker.sock:/var/run/docker.sock `
+
+--shm-size="1gb" `
+
+--restart unless-stopped `
+
+lscr.io/linuxserver/kali-linux:latest
+
+```
+
+
+
+
+
+
+
+Run ```docker ps``` to make sure the container is now up and running in docker
+
+
+
+
+Navigate to web browser and go to ```http://localhost:3000/``` (port 3000)
+
+
+
+
+
+
+
+* Using [Portainer](https://hub.docker.com/extensions/portainer/portainer-docker-extension) extension with docker Desktop for more detailed report of all docker images/containers
+
+
+
+
+Go to extensions Tab on docker desktop, search for Portainer, install extension, restart docker destop and the extension is shown below to click on
+
+
+
+
+
+
+
+* I.T. Tools Docker
+
+
+
+
+[Source](https://hub.docker.com/r/corentinth/it-tools)
+
+
+
+
+docker run -d -p 8080:80 --name it-tools -it corentinth/it-tools
+
+
+
+
+
+
+
